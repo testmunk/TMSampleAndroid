@@ -46,7 +46,8 @@ Writing teststeps requires you to know the relevant elements on the screen that 
 You can use the UI Automator Viewer to inspect your view. How?
 Open a terminal window and enter
 `uiautomatorviewer`
-Further infos about the Ui Automator Viewer can be found [here](http://www.tutorialspoint.com/android/android_ui_testing.htm)
+Further infos about the Ui Automator Viewer can be found [here](http://www.tutorialspoint.com/android/android_ui_testing.htm).  
+Please be aware that if you use an android version lower than API level 18 / Jelly bean you will not be able to interact with the resource-id of the element.
 
 Further info:
 ---
