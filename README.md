@@ -1,7 +1,7 @@
 TMSampleAndroid
 ===============
 
-Sample Android application for Testmunk. For instructions on how to install the prerequisites and try out testing, refer to [our documentation](http://docs.testmunk.com/)
+Sample Android application for Testmunk. For instructions on how to install the prerequisites and try out testing, refer to [our documentation](http://docs.testmunk.com/).
 
 Download and launch demo app
 ---
