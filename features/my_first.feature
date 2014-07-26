@@ -25,7 +25,6 @@ Feature: Calabash Testing
   	Then I toggle checkbox number 1
   	Then I should see text containing "not checked"
 
-  @check
   Scenario: Radio button toggle
   	When I scroll down
   	Then I select "Africa" radio button
