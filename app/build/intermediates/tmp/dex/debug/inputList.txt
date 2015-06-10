@@ -1,0 +1,2 @@
+/Users/lukasz/Development/workspace/work/Testmunk/TMSampleAndroid/app/build/intermediates/classes/debug
+/Users/lukasz/Development/workspace/work/Testmunk/TMSampleAndroid/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-bfd810b4724d712f19d82d32cc4053c5e0d42ad3.jar
